@@ -122,3 +122,10 @@ This class has been tested in the PHP versions listed below. If you are using a 
 - [x] PHP 7.1.26
 - [x] PHP 7.2.14
 - [x] PHP 7.3.1
+
+___
+
+`Build by Marshmallow`<br/><br/>
+<a href="https://marshmallow.dev" target="_blank">
+    <img src="https://cdn.marshmallow-office.com/mm/media/mrmallow.png" width="100"/>
+</a>
