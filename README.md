@@ -1,7 +1,7 @@
 ![alt text](https://www.ippies.nl/images/ippies-logo-header.png "ippies.nl")
 
 # Ticketveiling & ippies.nl
-This class can be used for easy integration to the ippies.nl Rest Api. All current endpoints available to Ticketveiling are available in this class. Please see the usage and information below. This update is very important because the current API that is based on SOAP is going to be phased out in 2019 because we are unable to keep the old API save and stable.
+This class can be used for easy integration to the ippies.nl Rest Api. All current endpoints available to Ticketveiling are available in this class. Please see the usage and information below. This update is very important because the current API that is based on SOAP is going to be phased out in Q1 2020 because we are unable to keep the old API save and stable.
 
 - [Usage](#usage) 
 - [Available methods](#available_methodes) 
@@ -114,7 +114,7 @@ public function disconnectAccount ($TVId) {
 
 <a id="php_versions"></a>
 ## PHP versions
-This class has been tested in the PHP versions listed below. If you are using a different PHP version and want us to test it for you, please let us know at lars@ippies.nl and provide the PHP version that you need tested.
+This class has been tested in the PHP versions listed below. If you are using a different PHP version and want us to test it for you, please let us know at <a href="mailto:developer@ippies.nl">developer@ippies.nl</a> and provide the PHP version that you need tested.
 
 - [x] PHP 5.4.45
 - [x] PHP 5.6.40
