@@ -243,7 +243,7 @@ class IppiesTicketVeiling
 
     /**
      * errorHandler
-     * This will handle errors will contacting the ippies.nl
+     * This will handle errors while contacting the ippies.nl
      * Rest Api. By default the method will write to the server
      * error log. If you want to handle errors differently, feel
      * free to adjust this method to your liking.
