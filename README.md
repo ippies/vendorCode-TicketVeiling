@@ -80,7 +80,7 @@ Give the user a reward for winning an auction on Ticketveiling.nl:
 $ticketveiling_customer_id = 645757;
 $ticketveiling_auction_id = 'AUCTION_NUMBER_###'; // The unique auction id from Ticketveiling.nl
 $auction_price_in_euro_cents = 0; // Not required, this will be 0 by default.
-(new \Ippies\VendorCode\IppiesTicketVeiling)->newBid(
+(new \Ippies\VendorCode\IppiesTicketVeiling)->auctionWon(
     $ticketveiling_customer_id, 
     $ticketveiling_auction_id,
     $auction_price_in_euro_cents
